@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 20px;
+    border-radius: 8px;
+}
